@@ -1,1 +1,1 @@
-good bye 
+"3rd strike" 
