@@ -1,1 +1,1 @@
-python用のスクレイピング勉強ファイル
+good bye 
