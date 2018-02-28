@@ -16,4 +16,10 @@ sel("#fr-list > .red.green")
     
 fr_list = soup.select("#fr-list > .yellow")
 for fr_name in fr_list:
+
     print("黄色カテゴリのフルーツは", fr_name)
+
+"""
+testwrite
+"""
+
