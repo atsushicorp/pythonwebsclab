@@ -19,5 +19,5 @@ for fr_name in fr_list:
     print("黄色カテゴリのフルーツは", fr_name)
     
 """
-testwrite
+testwrite add gitversion
 """
